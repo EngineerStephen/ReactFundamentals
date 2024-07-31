@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import About from './About';
-import Contact from './Contact'; // Import the 'Contact' component
+import Contact from './Contact'; 
 
 
 function App() {
