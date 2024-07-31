@@ -1,0 +1,10 @@
+
+h1 {
+    background-image: url('Tom%26Jerry.jpg');
+    background-size: cover; /* Adjusts the image to cover the entire element */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    color: white; /* Optional: Sets the text color to white for better contrast */
+    padding: 20px; /* Optional: Adds padding around the text */
+}
+}
